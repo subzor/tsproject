@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@eslint/js": "^9.8.0",
+    "@faker-js/faker": "^9.2.0",
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.2",
+    "@typescript-eslint/eslint-plugin": "^8.12.2",
+    "@typescript-eslint/parser": "^8.12.2",
+    "allure-commandline": "^2.32.0",
+    "allure-playwright": "^3.0.6",
+    "axios": "^1.7.5",
+    "dotenv": "^16.4.5",
+    "eslint": "^9.8.0",
+    "eslint-plugin-playwright": "^2.0.0",
+    "globals": "^15.9.0",
+    "node-html-parser": "^6.1.13",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.0.0"
+  },
+  "overrides": {
+    "eslint": "^9.8.0"
+  },
+  "scripts": {}
+}
