@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@playwright/test": "^1.45.3",
+    "@playwright/test": "^1.45.3"
   },
   "scripts": {}
 }
